@@ -14,13 +14,13 @@ This repository contains code for predicting house prices using various machine-
 ### Feature Importance
 ### Conclusion
 
-##Introduction
+## Introduction
 Predicting house prices is a common problem in the field of real estate and finance. Machine learning models can help in making accurate predictions based on various features of the houses. This project uses a dataset containing information about different houses, such as the number of bedrooms, square footage, neighborhood, and more, to predict their sale prices.
 
 ## Data Cleaning
 Before building machine learning models, it's essential to clean the dataset. Data cleaning involves handling missing values, dropping redundant columns, and ensuring data consistency. In this project, we performed data cleaning to prepare the dataset for analysis.
 
-Encoding Categorical Features
+## Encoding Categorical Features
 Categorical features, such as neighborhood or house style, need to be converted into a numerical format for machine learning algorithms. We used one-hot encoding to transform these features into binary columns, making them suitable for modeling.
 
 ## Data Splitting
