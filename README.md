@@ -1,10 +1,8 @@
-
-![fnak;hf](https://github.com/justinlapidus25/Housing-Pricing/assets/130884190/ca0cd798-f8c6-45db-a6aa-3e1ff2348bb2)
 <p align="center">
   <img src="https://github.com/justinlapidus25/Housing-Pricing/assets/130884190/ca0cd798-f8c6-45db-a6aa-3e1ff2348bb2" width="800" alt="Your Image">
 </p>
 
-# Housing Pricwa
+# Housing Prices
 This repository contains code for predicting house prices using various machine-learning models. The goal of this project is to explore different regression algorithms, preprocess data, and evaluate model performance using Root Mean Squared Error (RMSE).
 
 ## Table of Contents
