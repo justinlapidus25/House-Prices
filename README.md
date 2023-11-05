@@ -32,11 +32,14 @@ This project explores various machine learning models to predict house prices. D
 ![sdaghakusdh](https://github.com/justinlapidus25/Housing-Pricing/assets/130884190/02486bb6-7445-4889-9550-c35be5daa9a2)
 ### Logistic Regression with overfitting 
 
+![hhsjdfhkda](https://github.com/justinlapidus25/Housing-Pricing/assets/130884190/22a8dfd3-cc2c-4e2c-b8ab-644f623cfbc5)
+
+
 ![gadsgdg](https://github.com/justinlapidus25/Housing-Pricing/assets/130884190/082360ad-1956-4531-9cdd-effb7e3f57ea)
 
 ### Linear Regression with Grid search CV
 
-![hhsjdfhkda](https://github.com/justinlapidus25/Housing-Pricing/assets/130884190/22a8dfd3-cc2c-4e2c-b8ab-644f623cfbc5)
+![gadsgdg](https://github.com/justinlapidus25/Housing-Pricing/assets/130884190/082360ad-1956-4531-9cdd-effb7e3f57ea)
 
 ### Random Forest Regression with Grid Search CV
 
