@@ -48,9 +48,9 @@ Feature importance analysis using a Random Forest Regressor was performed to und
 
 ### The top 15 important Features Impacting Housing Sales
 
-![fkljdlfhlasd](https://github.com/justinlapidus25/Housing-Pricing/assets/130884190/15c27f6e-cdfd-4487-90da-4173fc0c1a7f)
+![fkljdlfhlasd](https://github.com/justinlapidus25/House-Prices/assets/130884190/b2b04449-ba65-49e3-b0e7-03d4ef5321a5)
 
-### The bottom 15 important Features Impacting Housing Sales
+### The bottom 15  Features Impacting Housing Sales
 
 
 ## Conclusion
